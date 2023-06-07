@@ -1,0 +1,4 @@
+venv
+.idia/
+*.pyc
+__pycache__/
